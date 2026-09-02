@@ -1,0 +1,13 @@
+dataset,status,finding
+district_master.csv,PASS,30 unique canonical districts; district_id is unique; no missing values.
+odisha_district_geography_fixed.csv,PASS_WITH_REFERENCE_NULLS,30 districts; 120 null cells are boundary fields (min/max lat/long) and are not required for the core district join.
+odisha_district_soil_fertility_categories_fixed.csv,PASS,One row per district; district_id matches master; no missing values.
+odisha_weather_master_ml_fixed.csv,PASS_FOR_RAINFALL_ML,Unique district×date key; lag/rolling features mathematically match past-only shift/rolling formulas. First 30 days of each district are absent because 30-day history is required; do not impute them with zero.
+odisha_crop_production_history_fixed.csv,PASS_WITH_LIMITATION,"Unique district×crop×annual-year key; yield exactly matches production/harvested area. All records are Annual (SEA03), so this is not season-specific production."
+odisha_crop_agronomic_requirements_fixed.csv,PASS_WITH_COVERAGE_LIMITATION,"Crop IDs are canonical. Only 13 crop×season records exist (12 Kharif, 1 Rabi); missing crop-season combinations must not be invented."
+odisha_district_crop_calendar_fixed.csv,REFERENCE_ONLY,Rows use STATE_ODISHA and are explicitly state-level. Do not join STATE_ODISHA as a district foreign key.
+odisha_mandi_daily_prices_fixed.csv,PASS_FOR_SYNTHETIC_PROTOTYPE,"427,440 rows; market×crop×date key unique; min≤modal≤max and no negative price/arrival values. Data_status must remain synthetic/prototype."
+odisha_crop_observations_for_recommendation_fixed.csv,PROTOTYPE_ONLY,"1,170 rows; crop_actual matches crop_name and all IDs map to masters, but provenance is SYNTHETIC_AI_GENERATED, so this is not real supervised ground truth."
+odisha_agricultural_inputs_final.csv,DISTRICT_AGGREGATE_ONLY,Original ALL_CROPS values were not copied into individual crops. crop_id is intentionally blank because crop-specific input observations are unavailable. Use as district-level context only.
+crop_master.csv,PASS,13 canonical crops with unique crop IDs.
+season_master.csv,PASS,5 canonical season IDs; SEA99 is Unknown and should not be treated as a normal agricultural season.

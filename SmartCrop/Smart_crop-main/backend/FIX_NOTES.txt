@@ -1,0 +1,25 @@
+ODISHA AGRICULTURE DATASET FIX REPORT
+========================================
+All original uploaded CSVs were left untouched. Fixed versions are separate.
+
+MASTER REFERENCES
+- district_master.csv: canonical district_id/district_name
+- crop_master.csv: canonical crop_id/crop_name
+- season_master.csv: canonical season IDs; SEA04 means multi-season Kharif+Rabi.
+
+KEY CORRECTIONS
+1. District names synchronized to geography master.
+2. Crop IDs in production and agronomy were remapped by canonical crop name to resolve conflicting IDs.
+3. Production season remains Annual; it is not falsely converted to Kharif/Rabi.
+4. Production yield is recalculated as production_tonnes / area_harvested_ha.
+5. Weather lag and rolling features were recalculated using only prior observations. Initial unavailable windows are NA, not zero.
+6. Weather geographic fields synchronized to the district geography master.
+7. Calendar was reduced to unique crop-season state-level reference records because the source explicitly says it is not district-specific.
+8. Market prices were canonicalized and marked synthetic prototype; no fake historical claims are removed.
+9. Crop observations remain synthetic; original coordinates were preserved in original_latitude/original_longitude and canonical district reference coordinates are used in latitude/longitude to avoid false geographic alignment.
+10. Agricultural inputs remain district aggregate data. They were NOT expanded to every crop because that would fabricate crop-specific fertilizer values.
+
+ML WARNING
+- These datasets contain synthetic prototype data where the source/status says synthetic.
+- They are suitable for pipeline/model prototyping, not real-world performance claims.
+- Crop recommendation ground truth is not genuine farm-survey ground truth.

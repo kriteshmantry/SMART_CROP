@@ -1,0 +1,6 @@
+season_id,season_name,season_type
+SEA01,Kharif,seasonal
+SEA02,Rabi,seasonal
+SEA03,Annual,annual
+SEA04,Kharif+Rabi,multi-season aggregate
+SEA99,Unknown,unknown

@@ -1,0 +1,13 @@
+dataset,rows,columns,duplicate_rows,missing_cells,note,primary_key_duplicates,date_min,date_max
+crop_master.csv,13,3,0,0,,,,
+district_master.csv,30,11,0,0,,,,
+odisha_agricultural_inputs_fixed.csv,30,23,0,270,District aggregate grain preserved; not expanded to crop rows. ALL_CROPS and Kharif+Rabi retained with explicit scope/season ID.,,,
+odisha_crop_agronomic_requirements_fixed.csv,13,27,0,0,,,,
+odisha_crop_observations_for_recommendation_fixed.csv,1170,34,0,0,"Synthetic target remains explicitly synthetic; original coordinates retained in original_latitude/longitude, canonical district reference coordinates used for geographic consistency.",0.0,,
+odisha_crop_production_history_fixed.csv,3900,14,0,0,Canonical crop IDs remapped by crop name; season preserved as Annual and assigned SEA03; yield recalculated.,0.0,,
+odisha_district_crop_calendar_fixed.csv,13,22,0,0,Converted from replicated state-level reference to 13 unique crop-season state-level records; no false district-specific claims.,,,
+odisha_district_geography_fixed.csv,30,15,0,120,,,,
+odisha_district_soil_fertility_categories_fixed.csv,30,10,0,0,,,,
+odisha_mandi_daily_prices_fixed.csv,427440,14,0,0,Price ordering and units preserved; dataset explicitly marked synthetic prototype.,0.0,,
+odisha_weather_master_ml_fixed.csv,108660,33,0,3000,Initial lag/rolling windows correctly NA until enough prior history exists; do not fill with zero.,0.0,2014-01-31,2023-12-31
+season_master.csv,5,3,0,0,,,,

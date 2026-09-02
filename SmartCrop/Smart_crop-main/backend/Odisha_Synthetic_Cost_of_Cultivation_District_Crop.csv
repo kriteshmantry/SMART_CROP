@@ -1,0 +1,421 @@
+District,Crop,Cost_of_Cultivation_INR_per_ha
+Angul,Groundnut,61000
+Angul,Maize,66800
+Angul,Moong(Green Gram),40500
+Angul,Ragi,48800
+Angul,Rice,79500
+Angul,Sesamum,37300
+Angul,Urad,41200
+Angul,Horse-gram,34800
+Angul,Potato,124900
+Angul,Rapeseed &Mustard,56500
+Angul,Sugarcane,157800
+Angul,Cotton(lint),75300
+Angul,Arhar/Tur,44500
+Angul,Jute,62400
+Balangir,Groundnut,61900
+Balangir,Maize,70300
+Balangir,Moong(Green Gram),42600
+Balangir,Ragi,48500
+Balangir,Rice,80900
+Balangir,Sesamum,39900
+Balangir,Urad,41400
+Balangir,Horse-gram,35600
+Balangir,Potato,130000
+Balangir,Rapeseed &Mustard,57700
+Balangir,Sugarcane,157800
+Balangir,Cotton(lint),77200
+Balangir,Arhar/Tur,46300
+Balangir,Jute,65600
+Balasore,Groundnut,67700
+Balasore,Maize,74700
+Balasore,Moong(Green Gram),42900
+Balasore,Ragi,53000
+Balasore,Rice,89000
+Balasore,Sesamum,41500
+Balasore,Urad,46900
+Balasore,Horse-gram,37900
+Balasore,Potato,140400
+Balasore,Rapeseed &Mustard,61900
+Balasore,Sugarcane,175300
+Balasore,Cotton(lint),84900
+Balasore,Arhar/Tur,50300
+Balasore,Jute,66300
+Bargarh,Groundnut,64600
+Bargarh,Maize,70900
+Bargarh,Moong(Green Gram),42300
+Bargarh,Ragi,50700
+Bargarh,Rice,82500
+Bargarh,Sesamum,39400
+Bargarh,Urad,44100
+Bargarh,Horse-gram,36900
+Bargarh,Potato,140800
+Bargarh,Rapeseed &Mustard,57800
+Bargarh,Sugarcane,163800
+Bargarh,Cotton(lint),77200
+Bargarh,Arhar/Tur,49300
+Bargarh,Jute,64600
+Bhadrak,Groundnut,60300
+Bhadrak,Maize,66700
+Bhadrak,Moong(Green Gram),41400
+Bhadrak,Ragi,47200
+Bhadrak,Rice,76200
+Bhadrak,Sesamum,39000
+Bhadrak,Urad,41600
+Bhadrak,Horse-gram,34000
+Bhadrak,Potato,128900
+Bhadrak,Rapeseed &Mustard,53800
+Bhadrak,Sugarcane,153100
+Bhadrak,Cotton(lint),72500
+Bhadrak,Arhar/Tur,44700
+Bhadrak,Jute,62000
+Boudh,Groundnut,59600
+Boudh,Maize,66300
+Boudh,Moong(Green Gram),38900
+Boudh,Ragi,48600
+Boudh,Rice,78300
+Boudh,Sesamum,37700
+Boudh,Urad,40500
+Boudh,Horse-gram,34700
+Boudh,Potato,129400
+Boudh,Rapeseed &Mustard,56700
+Boudh,Sugarcane,158000
+Boudh,Cotton(lint),71800
+Boudh,Arhar/Tur,45100
+Boudh,Jute,63100
+Cuttack,Groundnut,65100
+Cuttack,Maize,75100
+Cuttack,Moong(Green Gram),45400
+Cuttack,Ragi,51700
+Cuttack,Rice,84300
+Cuttack,Sesamum,41400
+Cuttack,Urad,46000
+Cuttack,Horse-gram,37400
+Cuttack,Potato,139200
+Cuttack,Rapeseed &Mustard,62000
+Cuttack,Sugarcane,180900
+Cuttack,Cotton(lint),84600
+Cuttack,Arhar/Tur,48700
+Cuttack,Jute,70000
+Deogarh,Groundnut,63500
+Deogarh,Maize,68100
+Deogarh,Moong(Green Gram),43100
+Deogarh,Ragi,51200
+Deogarh,Rice,81600
+Deogarh,Sesamum,40000
+Deogarh,Urad,43100
+Deogarh,Horse-gram,36700
+Deogarh,Potato,132100
+Deogarh,Rapeseed &Mustard,58100
+Deogarh,Sugarcane,161800
+Deogarh,Cotton(lint),81200
+Deogarh,Arhar/Tur,46800
+Deogarh,Jute,63300
+Dhenkanal,Groundnut,64600
+Dhenkanal,Maize,73300
+Dhenkanal,Moong(Green Gram),42700
+Dhenkanal,Ragi,50100
+Dhenkanal,Rice,85800
+Dhenkanal,Sesamum,41000
+Dhenkanal,Urad,43900
+Dhenkanal,Horse-gram,36200
+Dhenkanal,Potato,134100
+Dhenkanal,Rapeseed &Mustard,59000
+Dhenkanal,Sugarcane,164900
+Dhenkanal,Cotton(lint),77600
+Dhenkanal,Arhar/Tur,47400
+Dhenkanal,Jute,66900
+Gajapati,Groundnut,61600
+Gajapati,Maize,68900
+Gajapati,Moong(Green Gram),42800
+Gajapati,Ragi,48700
+Gajapati,Rice,82900
+Gajapati,Sesamum,40400
+Gajapati,Urad,42400
+Gajapati,Horse-gram,35200
+Gajapati,Potato,132700
+Gajapati,Rapeseed &Mustard,60100
+Gajapati,Sugarcane,163800
+Gajapati,Cotton(lint),81300
+Gajapati,Arhar/Tur,46000
+Gajapati,Jute,64000
+Ganjam,Groundnut,60600
+Ganjam,Maize,67100
+Ganjam,Moong(Green Gram),40800
+Ganjam,Ragi,46700
+Ganjam,Rice,78300
+Ganjam,Sesamum,39000
+Ganjam,Urad,40500
+Ganjam,Horse-gram,34300
+Ganjam,Potato,131200
+Ganjam,Rapeseed &Mustard,53900
+Ganjam,Sugarcane,159300
+Ganjam,Cotton(lint),74800
+Ganjam,Arhar/Tur,44300
+Ganjam,Jute,61100
+Jagatsinghpur,Groundnut,64300
+Jagatsinghpur,Maize,71600
+Jagatsinghpur,Moong(Green Gram),44700
+Jagatsinghpur,Ragi,51300
+Jagatsinghpur,Rice,86900
+Jagatsinghpur,Sesamum,40800
+Jagatsinghpur,Urad,43900
+Jagatsinghpur,Horse-gram,36000
+Jagatsinghpur,Potato,141100
+Jagatsinghpur,Rapeseed &Mustard,60500
+Jagatsinghpur,Sugarcane,175000
+Jagatsinghpur,Cotton(lint),80600
+Jagatsinghpur,Arhar/Tur,49200
+Jagatsinghpur,Jute,64700
+Jajpur,Groundnut,58900
+Jajpur,Maize,65700
+Jajpur,Moong(Green Gram),39600
+Jajpur,Ragi,47800
+Jajpur,Rice,78000
+Jajpur,Sesamum,37100
+Jajpur,Urad,39600
+Jajpur,Horse-gram,33400
+Jajpur,Potato,129300
+Jajpur,Rapeseed &Mustard,55600
+Jajpur,Sugarcane,156300
+Jajpur,Cotton(lint),73000
+Jajpur,Arhar/Tur,42800
+Jajpur,Jute,59200
+Jharsuguda,Groundnut,59200
+Jharsuguda,Maize,64800
+Jharsuguda,Moong(Green Gram),39600
+Jharsuguda,Ragi,46900
+Jharsuguda,Rice,80000
+Jharsuguda,Sesamum,38000
+Jharsuguda,Urad,39900
+Jharsuguda,Horse-gram,33700
+Jharsuguda,Potato,131600
+Jharsuguda,Rapeseed &Mustard,54200
+Jharsuguda,Sugarcane,157200
+Jharsuguda,Cotton(lint),72200
+Jharsuguda,Arhar/Tur,44200
+Jharsuguda,Jute,63700
+Kalahandi,Groundnut,63300
+Kalahandi,Maize,71600
+Kalahandi,Moong(Green Gram),41000
+Kalahandi,Ragi,49000
+Kalahandi,Rice,81200
+Kalahandi,Sesamum,39400
+Kalahandi,Urad,44600
+Kalahandi,Horse-gram,36500
+Kalahandi,Potato,140400
+Kalahandi,Rapeseed &Mustard,58000
+Kalahandi,Sugarcane,169600
+Kalahandi,Cotton(lint),79900
+Kalahandi,Arhar/Tur,48200
+Kalahandi,Jute,65400
+Kandhamal,Groundnut,66700
+Kandhamal,Maize,73600
+Kandhamal,Moong(Green Gram),45700
+Kandhamal,Ragi,55000
+Kandhamal,Rice,88800
+Kandhamal,Sesamum,42100
+Kandhamal,Urad,44400
+Kandhamal,Horse-gram,38500
+Kandhamal,Potato,144000
+Kandhamal,Rapeseed &Mustard,62400
+Kandhamal,Sugarcane,172000
+Kandhamal,Cotton(lint),81000
+Kandhamal,Arhar/Tur,50600
+Kandhamal,Jute,67500
+Kendrapara,Groundnut,61300
+Kendrapara,Maize,65400
+Kendrapara,Moong(Green Gram),39200
+Kendrapara,Ragi,48700
+Kendrapara,Rice,81500
+Kendrapara,Sesamum,39500
+Kendrapara,Urad,40400
+Kendrapara,Horse-gram,34000
+Kendrapara,Potato,133400
+Kendrapara,Rapeseed &Mustard,53900
+Kendrapara,Sugarcane,159600
+Kendrapara,Cotton(lint),75700
+Kendrapara,Arhar/Tur,46200
+Kendrapara,Jute,63800
+Keonjhar,Groundnut,59500
+Keonjhar,Maize,71000
+Keonjhar,Moong(Green Gram),40900
+Keonjhar,Ragi,50000
+Keonjhar,Rice,78600
+Keonjhar,Sesamum,40100
+Keonjhar,Urad,43500
+Keonjhar,Horse-gram,36400
+Keonjhar,Potato,129700
+Keonjhar,Rapeseed &Mustard,56000
+Keonjhar,Sugarcane,157500
+Keonjhar,Cotton(lint),79300
+Keonjhar,Arhar/Tur,47200
+Keonjhar,Jute,64800
+Khordha,Groundnut,66300
+Khordha,Maize,73500
+Khordha,Moong(Green Gram),42300
+Khordha,Ragi,51200
+Khordha,Rice,85200
+Khordha,Sesamum,40300
+Khordha,Urad,46200
+Khordha,Horse-gram,36300
+Khordha,Potato,144000
+Khordha,Rapeseed &Mustard,59300
+Khordha,Sugarcane,175500
+Khordha,Cotton(lint),83000
+Khordha,Arhar/Tur,49900
+Khordha,Jute,67600
+Koraput,Groundnut,58700
+Koraput,Maize,66500
+Koraput,Moong(Green Gram),38600
+Koraput,Ragi,45800
+Koraput,Rice,75900
+Koraput,Sesamum,37400
+Koraput,Urad,41200
+Koraput,Horse-gram,34700
+Koraput,Potato,131700
+Koraput,Rapeseed &Mustard,53500
+Koraput,Sugarcane,161600
+Koraput,Cotton(lint),76400
+Koraput,Arhar/Tur,44400
+Koraput,Jute,60400
+Malkangiri,Groundnut,60000
+Malkangiri,Maize,66800
+Malkangiri,Moong(Green Gram),39700
+Malkangiri,Ragi,49700
+Malkangiri,Rice,81600
+Malkangiri,Sesamum,39600
+Malkangiri,Urad,42100
+Malkangiri,Horse-gram,34300
+Malkangiri,Potato,132500
+Malkangiri,Rapeseed &Mustard,58000
+Malkangiri,Sugarcane,155400
+Malkangiri,Cotton(lint),73700
+Malkangiri,Arhar/Tur,44200
+Malkangiri,Jute,64300
+Mayurbhanj,Groundnut,61000
+Mayurbhanj,Maize,68100
+Mayurbhanj,Moong(Green Gram),42600
+Mayurbhanj,Ragi,50500
+Mayurbhanj,Rice,81200
+Mayurbhanj,Sesamum,39700
+Mayurbhanj,Urad,42500
+Mayurbhanj,Horse-gram,35300
+Mayurbhanj,Potato,133500
+Mayurbhanj,Rapeseed &Mustard,56300
+Mayurbhanj,Sugarcane,168600
+Mayurbhanj,Cotton(lint),77100
+Mayurbhanj,Arhar/Tur,48200
+Mayurbhanj,Jute,64900
+Nabarangpur,Groundnut,59200
+Nabarangpur,Maize,68700
+Nabarangpur,Moong(Green Gram),41000
+Nabarangpur,Ragi,49100
+Nabarangpur,Rice,82800
+Nabarangpur,Sesamum,38100
+Nabarangpur,Urad,43600
+Nabarangpur,Horse-gram,35400
+Nabarangpur,Potato,134000
+Nabarangpur,Rapeseed &Mustard,56300
+Nabarangpur,Sugarcane,160500
+Nabarangpur,Cotton(lint),74500
+Nabarangpur,Arhar/Tur,46700
+Nabarangpur,Jute,62600
+Nayagarh,Groundnut,64700
+Nayagarh,Maize,73500
+Nayagarh,Moong(Green Gram),44400
+Nayagarh,Ragi,54200
+Nayagarh,Rice,86000
+Nayagarh,Sesamum,43200
+Nayagarh,Urad,45300
+Nayagarh,Horse-gram,37300
+Nayagarh,Potato,147300
+Nayagarh,Rapeseed &Mustard,62400
+Nayagarh,Sugarcane,171900
+Nayagarh,Cotton(lint),84100
+Nayagarh,Arhar/Tur,49100
+Nayagarh,Jute,67000
+Nuapada,Groundnut,65100
+Nuapada,Maize,72300
+Nuapada,Moong(Green Gram),43100
+Nuapada,Ragi,51800
+Nuapada,Rice,85800
+Nuapada,Sesamum,40600
+Nuapada,Urad,44200
+Nuapada,Horse-gram,38200
+Nuapada,Potato,145500
+Nuapada,Rapeseed &Mustard,59900
+Nuapada,Sugarcane,172000
+Nuapada,Cotton(lint),83100
+Nuapada,Arhar/Tur,48900
+Nuapada,Jute,69700
+Puri,Groundnut,66700
+Puri,Maize,75200
+Puri,Moong(Green Gram),44900
+Puri,Ragi,51900
+Puri,Rice,83900
+Puri,Sesamum,42200
+Puri,Urad,44800
+Puri,Horse-gram,37000
+Puri,Potato,136300
+Puri,Rapeseed &Mustard,62400
+Puri,Sugarcane,169000
+Puri,Cotton(lint),81600
+Puri,Arhar/Tur,48100
+Puri,Jute,69400
+Rayagada,Groundnut,59000
+Rayagada,Maize,69100
+Rayagada,Moong(Green Gram),41600
+Rayagada,Ragi,48300
+Rayagada,Rice,80600
+Rayagada,Sesamum,37900
+Rayagada,Urad,42200
+Rayagada,Horse-gram,35100
+Rayagada,Potato,126300
+Rayagada,Rapeseed &Mustard,56200
+Rayagada,Sugarcane,157600
+Rayagada,Cotton(lint),74300
+Rayagada,Arhar/Tur,44000
+Rayagada,Jute,64000
+Sambalpur,Groundnut,63500
+Sambalpur,Maize,70900
+Sambalpur,Moong(Green Gram),44100
+Sambalpur,Ragi,51400
+Sambalpur,Rice,83300
+Sambalpur,Sesamum,40000
+Sambalpur,Urad,44900
+Sambalpur,Horse-gram,38100
+Sambalpur,Potato,140700
+Sambalpur,Rapeseed &Mustard,61300
+Sambalpur,Sugarcane,167500
+Sambalpur,Cotton(lint),79600
+Sambalpur,Arhar/Tur,48500
+Sambalpur,Jute,65000
+Subarnapur,Groundnut,57100
+Subarnapur,Maize,68200
+Subarnapur,Moong(Green Gram),40400
+Subarnapur,Ragi,47600
+Subarnapur,Rice,77100
+Subarnapur,Sesamum,37200
+Subarnapur,Urad,41700
+Subarnapur,Horse-gram,33700
+Subarnapur,Potato,125900
+Subarnapur,Rapeseed &Mustard,53100
+Subarnapur,Sugarcane,153600
+Subarnapur,Cotton(lint),72500
+Subarnapur,Arhar/Tur,45800
+Subarnapur,Jute,59500
+Sundargarh,Groundnut,66600
+Sundargarh,Maize,72700
+Sundargarh,Moong(Green Gram),44300
+Sundargarh,Ragi,53700
+Sundargarh,Rice,85100
+Sundargarh,Sesamum,42200
+Sundargarh,Urad,45400
+Sundargarh,Horse-gram,39400
+Sundargarh,Potato,140100
+Sundargarh,Rapeseed &Mustard,61700
+Sundargarh,Sugarcane,179000
+Sundargarh,Cotton(lint),84700
+Sundargarh,Arhar/Tur,48600
+Sundargarh,Jute,71000

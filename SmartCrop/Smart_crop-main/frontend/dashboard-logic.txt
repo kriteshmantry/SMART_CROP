@@ -1,0 +1,17 @@
+import React, { useState, useEffect, useRef } from 'react';
+import FarmerChat from './FarmerChat';
+import { 
+  MapPin, Sprout, TrendingUp, DollarSign, Award, Search, ChevronDown, 
+  LocateFixed, LineChart, ShieldCheck, Volume2, X, User, Sun, Moon, CreditCard,
+  Droplets, Clock, Sparkles, Globe
+} from 'lucide-react';
+import { useLanguage } from '../context/LanguageContext';
+import WeatherWidget from '../components/WeatherWidget';
+import CreditScoreGauge from '../components/CreditScoreGauge';
+import LoanInformationModal from '../components/LoanInformationModal';
+import LocationPickerMap from '../components/LocationPickerMap';
+import smartBotImg from '../assets/smart_bot.png';
+
+const LocationPickerModal = ({ isOpen, onClose, currentDistrict, onSelect }) => {
+  if (!isOpen) return null;
+  

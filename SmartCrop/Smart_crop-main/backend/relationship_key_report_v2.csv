@@ -1,0 +1,17 @@
+left_dataset,right_dataset,join_keys,expected_cardinality,temporal_or_grain_alignment,risk,rule
+district_master,soil,district_id,1:1,Static district geography/soil reference,Low,No many-to-many join
+district_master,weather,district_id,1:N,district × date,Low,Safe
+district_master,production,district_id,1:N,district × crop × annual year,Low,Safe
+crop_master,production,crop_id,1:N,crop × district × year,Low,Safe
+crop_master,agronomy,crop_id,1:N,crop × season,Low,Safe
+season_master,agronomy,season_id,1:N,crop × season,Low,Safe
+season_master,production,season_id,1:N,currently Annual only,Low,Safe
+district_master,market,district_id,1:N,market × crop × date,Low,Safe; market_id remains required
+crop_master,market,crop_id,1:N,market × crop × date,Low,Safe
+district_master,crop_observations,district_id,1:N,observation-level,Low,Safe
+crop_master,crop_observations,crop_id,1:N,observation-level,Low,Safe
+district_master,agricultural_inputs,district_id,1:N,district aggregate × year,Medium,Do NOT join on crop_id
+crop_master,agricultural_inputs,crop_id,N/A,No genuine crop-specific input key,High,Current input data cannot support crop-level FK
+state-level calendar,district_master,district_id,N/A,STATE_ODISHA is not a district,High,Use as state reference only
+weather,production,district_id + aligned year,N:1 after aggregation,Aggregate daily weather to district×year before joining annual production,Medium,Never direct daily×annual merge
+market,production,district/crop + aligned year,N:1 after aggregation,Aggregate market history to the required prediction grain,Medium,Never direct daily market×annual production merge

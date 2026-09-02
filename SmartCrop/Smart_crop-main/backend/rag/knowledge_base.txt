@@ -1,0 +1,26 @@
+General Agricultural Best Practices for Odisha:
+
+1. Pest Management for Rice:
+   - Stem borer: Use pheromone traps @ 5/ha. If damage crosses 5% dead heart, apply Chlorantraniliprole 18.5 SC @ 150 ml/ha or Cartap hydrochloride 4G @ 25 kg/ha.
+   - Brown Plant Hopper (BPH): Maintain proper spacing, avoid excess nitrogen. Apply Pymetrozine 50 WG @ 300 g/ha when insect population crosses threshold.
+   - Blast disease: Treat seeds with Tricyclazole. Spray Tricyclazole 75 WP @ 0.6 g/liter of water at appearance of lesions.
+
+2. Fertilizer Management (General):
+   - Always apply Nitrogen in split doses (usually 3 splits: basal, tillering, panicle initiation).
+   - Apply Phosphorus entirely as basal dose before sowing.
+   - Apply Potassium 50% basal and 50% at panicle initiation for cereal crops.
+   - Bio-fertilizers like Azolla and Blue Green Algae (BGA) can supplement nitrogen in paddy fields.
+
+3. Irrigation Practices:
+   - For Rice, maintain 2-3 cm standing water from transplanting to panicle initiation, and 5 cm from panicle initiation to grain filling. Drain water 15 days before harvest.
+   - For pulses like Moong and Urad, ensure critical irrigation at branching and pod development stages if dry spells occur. Avoid waterlogging at all costs as they are sensitive to standing water.
+
+4. Government Schemes in Odisha:
+   - KALIA (Krushak Assistance for Livelihood and Income Augmentation): Financial assistance to small and marginal farmers, landless agricultural households.
+   - PM-KISAN: Rs. 6000 per year direct income support.
+   - Biju Krushak Kalyan Yojana (BKKY): Health insurance for farmers.
+   - Jalanidhi: Subsidy for borewells and shallow tubewells.
+
+5. Climate Resilience:
+   - In flood-prone coastal areas of Odisha (like Kendrapada, Jagatsinghpur), use flood-tolerant rice varieties like Swarna Sub-1, Pooja, and CR-1009 Sub-1.
+   - In drought-prone western districts (like Kalahandi, Balangir, Nuapada), prefer short-duration crops like Ragi (Finger Millet), Greengram, and drought-tolerant rice like Sahabhagi Dhan.

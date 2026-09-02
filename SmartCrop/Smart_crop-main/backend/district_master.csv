@@ -1,0 +1,31 @@
+district_id,district_name,state,country,latitude,longitude,elevation_m,district_area_km2,coastal_status,agro_climatic_zone,agro_ecological_zone
+DST01,Angul,Odisha,India,20.83,85.1,195,6375,Inland,Mid Central Table Land,Zone 12 - Eastern Plateau
+DST02,Balangir,Odisha,India,20.72,83.48,164,6575,Inland,Western Central Table Land,Zone 12 - Eastern Plateau
+DST03,Balasore,Odisha,India,21.49,86.93,16,3806,Coastal,North Eastern Coastal Plain,Zone 18 - Eastern Coastal Plain
+DST04,Bargarh,Odisha,India,21.33,83.62,171,5837,Inland,Western Central Table Land,Zone 12 - Eastern Plateau
+DST05,Bhadrak,Odisha,India,21.05,86.5,17,2505,Coastal,North Eastern Coastal Plain,Zone 18 - Eastern Coastal Plain
+DST06,Boudh,Odisha,India,20.84,84.32,87,3098,Inland,Western Central Table Land,Zone 12 - Eastern Plateau
+DST07,Cuttack,Odisha,India,20.46,85.88,36,3932,Inland,East & South Eastern Coastal Plain,Zone 18 - Eastern Coastal Plain
+DST08,Deogarh,Odisha,India,21.54,84.73,192,2940,Inland,North Western Plateau,Zone 12 - Eastern Plateau
+DST09,Dhenkanal,Odisha,India,20.66,85.6,80,4452,Inland,Mid Central Table Land,Zone 12 - Eastern Plateau
+DST10,Gajapati,Odisha,India,18.77,84.09,74,4325,Inland,North Eastern Ghat,Zone 12 - Eastern Plateau
+DST11,Ganjam,Odisha,India,19.35,84.98,17,8206,Coastal,East & South Eastern Coastal Plain,Zone 18 - Eastern Coastal Plain
+DST12,Jagatsinghpur,Odisha,India,20.27,86.16,15,1668,Coastal,East & South Eastern Coastal Plain,Zone 18 - Eastern Coastal Plain
+DST13,Jajpur,Odisha,India,20.84,86.33,9,2899,Inland,North Eastern Coastal Plain,Zone 18 - Eastern Coastal Plain
+DST14,Jharsuguda,Odisha,India,21.86,84.01,218,2081,Inland,Western Central Table Land,Zone 12 - Eastern Plateau
+DST15,Kalahandi,Odisha,India,19.9,83.16,248,7920,Inland,Western Undulating Zone,Zone 12 - Eastern Plateau
+DST16,Kandhamal,Odisha,India,20.47,84.23,485,8021,Inland,North Eastern Ghat,Zone 12 - Eastern Plateau
+DST17,Kendrapara,Odisha,India,20.5,86.42,13,2644,Coastal,East & South Eastern Coastal Plain,Zone 18 - Eastern Coastal Plain
+DST18,Kendujhar,Odisha,India,21.63,85.58,480,8303,Inland,North Central Plateau,Zone 12 - Eastern Plateau
+DST19,Khordha,Odisha,India,20.18,85.61,75,2813,Inland,East & South Eastern Coastal Plain,Zone 18 - Eastern Coastal Plain
+DST20,Koraput,Odisha,India,18.81,82.71,870,8807,Inland,Eastern Ghat High Land,Zone 12 - Eastern Plateau
+DST21,Malkangiri,Odisha,India,18.35,81.88,170,5791,Inland,South Eastern Ghat,Zone 12 - Eastern Plateau
+DST22,Mayurbhanj,Odisha,India,21.93,86.73,36,10418,Inland,North Central Plateau,Zone 12 - Eastern Plateau
+DST23,Nabarangpur,Odisha,India,19.23,82.55,576,5291,Inland,Eastern Ghat High Land,Zone 12 - Eastern Plateau
+DST24,Nayagarh,Odisha,India,20.13,85.1,85,3890,Inland,East & South Eastern Coastal Plain,Zone 12 - Eastern Plateau
+DST25,Nuapada,Odisha,India,20.83,82.53,300,3852,Inland,Western Undulating Zone,Zone 12 - Eastern Plateau
+DST26,Puri,Odisha,India,19.81,85.83,10,3479,Coastal,East & South Eastern Coastal Plain,Zone 18 - Eastern Coastal Plain
+DST27,Rayagada,Odisha,India,19.17,83.82,207,7073,Inland,North Eastern Ghat,Zone 12 - Eastern Plateau
+DST28,Sambalpur,Odisha,India,21.47,83.97,135,6624,Inland,Western Central Table Land,Zone 12 - Eastern Plateau
+DST29,Subarnapur,Odisha,India,20.83,83.92,122,2337,Inland,Western Central Table Land,Zone 12 - Eastern Plateau
+DST30,Sundargarh,Odisha,India,22.12,84.03,243,9712,Inland,North Western Plateau,Zone 12 - Eastern Plateau

@@ -1,0 +1,902 @@
+{
+  "Angul": {
+    "latitude": 20.83,
+    "longitude": 85.1,
+    "elevation": 195.0,
+    "agro_climatic_zone": "Mid Central Table Land",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 55.3,
+      "P": 33.5,
+      "K": 43.1,
+      "pH": 6.39
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4332.8,
+        "temperature": 26.2,
+        "humidity": 80.7
+      },
+      "Rabi": {
+        "rainfall": 96.8,
+        "temperature": 28.1,
+        "humidity": 61.8
+      },
+      "Summer": {
+        "rainfall": 383.3,
+        "temperature": 31.5,
+        "humidity": 67.3
+      }
+    }
+  },
+  "Balangir": {
+    "latitude": 20.72,
+    "longitude": 83.48,
+    "elevation": 164.0,
+    "agro_climatic_zone": "Western Central Table Land",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 53.6,
+      "P": 32.8,
+      "K": 46.2,
+      "pH": 6.32
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4072.6,
+        "temperature": 26.4,
+        "humidity": 80.5
+      },
+      "Rabi": {
+        "rainfall": 59.4,
+        "temperature": 28.3,
+        "humidity": 61.3
+      },
+      "Summer": {
+        "rainfall": 350.8,
+        "temperature": 31.7,
+        "humidity": 66.8
+      }
+    }
+  },
+  "Balasore": {
+    "latitude": 21.49,
+    "longitude": 86.93,
+    "elevation": 16.0,
+    "agro_climatic_zone": "North Eastern Coastal Plain",
+    "coastal_status": "Coastal",
+    "soil": {
+      "N": 53.3,
+      "P": 32.8,
+      "K": 43.4,
+      "pH": 6.38
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4877.3,
+        "temperature": 27.0,
+        "humidity": 81.5
+      },
+      "Rabi": {
+        "rainfall": 152.7,
+        "temperature": 28.9,
+        "humidity": 61.7
+      },
+      "Summer": {
+        "rainfall": 553.6,
+        "temperature": 32.2,
+        "humidity": 67.4
+      }
+    }
+  },
+  "Bargarh": {
+    "latitude": 21.33,
+    "longitude": 83.62,
+    "elevation": 171.0,
+    "agro_climatic_zone": "Western Central Table Land",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 57.3,
+      "P": 32.7,
+      "K": 38.3,
+      "pH": 6.49
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4172.2,
+        "temperature": 26.4,
+        "humidity": 80.9
+      },
+      "Rabi": {
+        "rainfall": 91.5,
+        "temperature": 28.2,
+        "humidity": 61.7
+      },
+      "Summer": {
+        "rainfall": 396.3,
+        "temperature": 31.6,
+        "humidity": 67.1
+      }
+    }
+  },
+  "Bhadrak": {
+    "latitude": 21.05,
+    "longitude": 86.5,
+    "elevation": 17.0,
+    "agro_climatic_zone": "North Eastern Coastal Plain",
+    "coastal_status": "Coastal",
+    "soil": {
+      "N": 58.2,
+      "P": 33.9,
+      "K": 43.5,
+      "pH": 6.47
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4707.7,
+        "temperature": 27.1,
+        "humidity": 81.5
+      },
+      "Rabi": {
+        "rainfall": 122.7,
+        "temperature": 29.0,
+        "humidity": 61.7
+      },
+      "Summer": {
+        "rainfall": 483.2,
+        "temperature": 32.2,
+        "humidity": 67.3
+      }
+    }
+  },
+  "Boudh": {
+    "latitude": 20.84,
+    "longitude": 84.32,
+    "elevation": 87.0,
+    "agro_climatic_zone": "Western Central Table Land",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 53.8,
+      "P": 33.9,
+      "K": 42.4,
+      "pH": 6.34
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4407.3,
+        "temperature": 26.7,
+        "humidity": 81.3
+      },
+      "Rabi": {
+        "rainfall": 72.5,
+        "temperature": 28.7,
+        "humidity": 61.2
+      },
+      "Summer": {
+        "rainfall": 329.6,
+        "temperature": 32.0,
+        "humidity": 66.4
+      }
+    }
+  },
+  "Cuttack": {
+    "latitude": 20.46,
+    "longitude": 85.88,
+    "elevation": 36.0,
+    "agro_climatic_zone": "East & South Eastern Coastal Plain",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 54.6,
+      "P": 31.8,
+      "K": 44.7,
+      "pH": 6.41
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4091.7,
+        "temperature": 26.9,
+        "humidity": 80.8
+      },
+      "Rabi": {
+        "rainfall": 49.1,
+        "temperature": 28.9,
+        "humidity": 61.5
+      },
+      "Summer": {
+        "rainfall": 349.7,
+        "temperature": 32.2,
+        "humidity": 66.9
+      }
+    }
+  },
+  "Deogarh": {
+    "latitude": 21.54,
+    "longitude": 84.73,
+    "elevation": 192.0,
+    "agro_climatic_zone": "North Western Plateau",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 54.2,
+      "P": 30.7,
+      "K": 41.8,
+      "pH": 6.43
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4292.0,
+        "temperature": 26.2,
+        "humidity": 80.8
+      },
+      "Rabi": {
+        "rainfall": 92.9,
+        "temperature": 28.2,
+        "humidity": 61.6
+      },
+      "Summer": {
+        "rainfall": 398.8,
+        "temperature": 31.5,
+        "humidity": 66.7
+      }
+    }
+  },
+  "Dhenkanal": {
+    "latitude": 20.66,
+    "longitude": 85.6,
+    "elevation": 80.0,
+    "agro_climatic_zone": "Mid Central Table Land",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 52.1,
+      "P": 34.0,
+      "K": 38.5,
+      "pH": 6.32
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4457.5,
+        "temperature": 26.8,
+        "humidity": 80.9
+      },
+      "Rabi": {
+        "rainfall": 84.6,
+        "temperature": 28.7,
+        "humidity": 61.4
+      },
+      "Summer": {
+        "rainfall": 390.6,
+        "temperature": 32.0,
+        "humidity": 66.9
+      }
+    }
+  },
+  "Gajapati": {
+    "latitude": 18.77,
+    "longitude": 84.09,
+    "elevation": 74.0,
+    "agro_climatic_zone": "North Eastern Ghat",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 55.7,
+      "P": 31.2,
+      "K": 42.9,
+      "pH": 6.55
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 3169.1,
+        "temperature": 26.9,
+        "humidity": 79.5
+      },
+      "Rabi": {
+        "rainfall": 22.8,
+        "temperature": 28.7,
+        "humidity": 61.4
+      },
+      "Summer": {
+        "rainfall": 187.9,
+        "temperature": 32.0,
+        "humidity": 66.4
+      }
+    }
+  },
+  "Ganjam": {
+    "latitude": 19.35,
+    "longitude": 84.98,
+    "elevation": 17.0,
+    "agro_climatic_zone": "East & South Eastern Coastal Plain",
+    "coastal_status": "Coastal",
+    "soil": {
+      "N": 53.9,
+      "P": 34.6,
+      "K": 45.7,
+      "pH": 6.54
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 3515.2,
+        "temperature": 27.1,
+        "humidity": 80.1
+      },
+      "Rabi": {
+        "rainfall": 14.1,
+        "temperature": 29.0,
+        "humidity": 61.0
+      },
+      "Summer": {
+        "rainfall": 295.8,
+        "temperature": 32.3,
+        "humidity": 66.7
+      }
+    }
+  },
+  "Jagatsinghpur": {
+    "latitude": 20.27,
+    "longitude": 86.16,
+    "elevation": 15.0,
+    "agro_climatic_zone": "East & South Eastern Coastal Plain",
+    "coastal_status": "Coastal",
+    "soil": {
+      "N": 59.7,
+      "P": 30.8,
+      "K": 44.4,
+      "pH": 6.48
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4238.6,
+        "temperature": 27.0,
+        "humidity": 81.0
+      },
+      "Rabi": {
+        "rainfall": 71.0,
+        "temperature": 29.0,
+        "humidity": 61.3
+      },
+      "Summer": {
+        "rainfall": 354.5,
+        "temperature": 32.3,
+        "humidity": 66.9
+      }
+    }
+  },
+  "Jajpur": {
+    "latitude": 20.84,
+    "longitude": 86.33,
+    "elevation": 9.0,
+    "agro_climatic_zone": "North Eastern Coastal Plain",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 52.8,
+      "P": 36.0,
+      "K": 40.7,
+      "pH": 6.36
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4659.8,
+        "temperature": 27.0,
+        "humidity": 81.1
+      },
+      "Rabi": {
+        "rainfall": 103.2,
+        "temperature": 29.0,
+        "humidity": 61.9
+      },
+      "Summer": {
+        "rainfall": 479.3,
+        "temperature": 32.3,
+        "humidity": 67.2
+      }
+    }
+  },
+  "Jharsuguda": {
+    "latitude": 21.86,
+    "longitude": 84.01,
+    "elevation": 218.0,
+    "agro_climatic_zone": "Western Central Table Land",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 54.3,
+      "P": 34.1,
+      "K": 42.3,
+      "pH": 6.56
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4370.8,
+        "temperature": 26.1,
+        "humidity": 81.0
+      },
+      "Rabi": {
+        "rainfall": 95.7,
+        "temperature": 28.1,
+        "humidity": 61.6
+      },
+      "Summer": {
+        "rainfall": 430.4,
+        "temperature": 31.3,
+        "humidity": 67.2
+      }
+    }
+  },
+  "Kalahandi": {
+    "latitude": 19.9,
+    "longitude": 83.16,
+    "elevation": 248.0,
+    "agro_climatic_zone": "Western Undulating Zone",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 56.5,
+      "P": 34.1,
+      "K": 48.3,
+      "pH": 6.3
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 3591.5,
+        "temperature": 26.0,
+        "humidity": 79.9
+      },
+      "Rabi": {
+        "rainfall": 23.9,
+        "temperature": 27.9,
+        "humidity": 61.1
+      },
+      "Summer": {
+        "rainfall": 315.1,
+        "temperature": 31.2,
+        "humidity": 66.8
+      }
+    }
+  },
+  "Kandhamal": {
+    "latitude": 20.47,
+    "longitude": 84.23,
+    "elevation": 485.0,
+    "agro_climatic_zone": "North Eastern Ghat",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 55.2,
+      "P": 33.4,
+      "K": 45.6,
+      "pH": 6.35
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4145.9,
+        "temperature": 24.9,
+        "humidity": 80.6
+      },
+      "Rabi": {
+        "rainfall": 80.4,
+        "temperature": 26.9,
+        "humidity": 61.7
+      },
+      "Summer": {
+        "rainfall": 370.9,
+        "temperature": 30.2,
+        "humidity": 66.7
+      }
+    }
+  },
+  "Kendrapara": {
+    "latitude": 20.5,
+    "longitude": 86.42,
+    "elevation": 13.0,
+    "agro_climatic_zone": "East & South Eastern Coastal Plain",
+    "coastal_status": "Coastal",
+    "soil": {
+      "N": 56.9,
+      "P": 33.2,
+      "K": 48.0,
+      "pH": 6.5
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4151.5,
+        "temperature": 27.1,
+        "humidity": 80.9
+      },
+      "Rabi": {
+        "rainfall": 99.0,
+        "temperature": 29.0,
+        "humidity": 61.6
+      },
+      "Summer": {
+        "rainfall": 357.9,
+        "temperature": 32.3,
+        "humidity": 66.9
+      }
+    }
+  },
+  "Kendujhar": {
+    "latitude": 21.63,
+    "longitude": 85.58,
+    "elevation": 480.0,
+    "agro_climatic_zone": "North Central Plateau",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 51.8,
+      "P": 29.1,
+      "K": 45.5,
+      "pH": 6.43
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4665.0,
+        "temperature": 24.9,
+        "humidity": 81.4
+      },
+      "Rabi": {
+        "rainfall": 109.3,
+        "temperature": 26.8,
+        "humidity": 61.5
+      },
+      "Summer": {
+        "rainfall": 429.0,
+        "temperature": 30.2,
+        "humidity": 67.1
+      }
+    }
+  },
+  "Khordha": {
+    "latitude": 20.18,
+    "longitude": 85.61,
+    "elevation": 75.0,
+    "agro_climatic_zone": "East & South Eastern Coastal Plain",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 57.5,
+      "P": 32.9,
+      "K": 47.2,
+      "pH": 6.4
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 3928.2,
+        "temperature": 26.8,
+        "humidity": 80.5
+      },
+      "Rabi": {
+        "rainfall": 85.7,
+        "temperature": 28.7,
+        "humidity": 61.4
+      },
+      "Summer": {
+        "rainfall": 329.0,
+        "temperature": 32.0,
+        "humidity": 67.0
+      }
+    }
+  },
+  "Koraput": {
+    "latitude": 18.81,
+    "longitude": 82.71,
+    "elevation": 870.0,
+    "agro_climatic_zone": "Eastern Ghat High Land",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 59.3,
+      "P": 32.0,
+      "K": 43.8,
+      "pH": 6.38
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 3162.8,
+        "temperature": 23.2,
+        "humidity": 79.4
+      },
+      "Rabi": {
+        "rainfall": 19.5,
+        "temperature": 25.2,
+        "humidity": 61.4
+      },
+      "Summer": {
+        "rainfall": 183.7,
+        "temperature": 28.4,
+        "humidity": 66.3
+      }
+    }
+  },
+  "Malkangiri": {
+    "latitude": 18.35,
+    "longitude": 81.88,
+    "elevation": 170.0,
+    "agro_climatic_zone": "South Eastern Ghat",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 57.9,
+      "P": 30.0,
+      "K": 42.9,
+      "pH": 6.27
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 3067.4,
+        "temperature": 26.4,
+        "humidity": 79.3
+      },
+      "Rabi": {
+        "rainfall": 31.7,
+        "temperature": 28.3,
+        "humidity": 61.2
+      },
+      "Summer": {
+        "rainfall": 120.9,
+        "temperature": 31.6,
+        "humidity": 66.2
+      }
+    }
+  },
+  "Mayurbhanj": {
+    "latitude": 21.93,
+    "longitude": 86.73,
+    "elevation": 36.0,
+    "agro_climatic_zone": "North Central Plateau",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 54.4,
+      "P": 30.9,
+      "K": 44.0,
+      "pH": 6.36
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4968.2,
+        "temperature": 26.9,
+        "humidity": 81.6
+      },
+      "Rabi": {
+        "rainfall": 164.1,
+        "temperature": 28.9,
+        "humidity": 61.5
+      },
+      "Summer": {
+        "rainfall": 481.4,
+        "temperature": 32.3,
+        "humidity": 67.5
+      }
+    }
+  },
+  "Nabarangpur": {
+    "latitude": 19.23,
+    "longitude": 82.55,
+    "elevation": 576.0,
+    "agro_climatic_zone": "Eastern Ghat High Land",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 54.7,
+      "P": 31.6,
+      "K": 43.4,
+      "pH": 6.56
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 3225.8,
+        "temperature": 24.6,
+        "humidity": 79.6
+      },
+      "Rabi": {
+        "rainfall": 18.8,
+        "temperature": 26.5,
+        "humidity": 61.3
+      },
+      "Summer": {
+        "rainfall": 206.3,
+        "temperature": 29.9,
+        "humidity": 66.2
+      }
+    }
+  },
+  "Nayagarh": {
+    "latitude": 20.13,
+    "longitude": 85.1,
+    "elevation": 85.0,
+    "agro_climatic_zone": "East & South Eastern Coastal Plain",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 50.1,
+      "P": 32.2,
+      "K": 47.9,
+      "pH": 6.34
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4057.1,
+        "temperature": 26.7,
+        "humidity": 80.5
+      },
+      "Rabi": {
+        "rainfall": 49.0,
+        "temperature": 28.6,
+        "humidity": 61.6
+      },
+      "Summer": {
+        "rainfall": 328.6,
+        "temperature": 32.0,
+        "humidity": 66.6
+      }
+    }
+  },
+  "Nuapada": {
+    "latitude": 20.83,
+    "longitude": 82.53,
+    "elevation": 300.0,
+    "agro_climatic_zone": "Western Undulating Zone",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 54.6,
+      "P": 34.8,
+      "K": 46.4,
+      "pH": 6.34
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 3874.3,
+        "temperature": 25.8,
+        "humidity": 80.3
+      },
+      "Rabi": {
+        "rainfall": 35.5,
+        "temperature": 27.7,
+        "humidity": 61.3
+      },
+      "Summer": {
+        "rainfall": 413.4,
+        "temperature": 31.0,
+        "humidity": 67.0
+      }
+    }
+  },
+  "Puri": {
+    "latitude": 19.81,
+    "longitude": 85.83,
+    "elevation": 10.0,
+    "agro_climatic_zone": "East & South Eastern Coastal Plain",
+    "coastal_status": "Coastal",
+    "soil": {
+      "N": 59.1,
+      "P": 34.4,
+      "K": 48.5,
+      "pH": 6.41
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 3897.5,
+        "temperature": 27.1,
+        "humidity": 80.5
+      },
+      "Rabi": {
+        "rainfall": 43.8,
+        "temperature": 29.0,
+        "humidity": 61.5
+      },
+      "Summer": {
+        "rainfall": 332.4,
+        "temperature": 32.2,
+        "humidity": 66.9
+      }
+    }
+  },
+  "Rayagada": {
+    "latitude": 19.17,
+    "longitude": 83.82,
+    "elevation": 207.0,
+    "agro_climatic_zone": "North Eastern Ghat",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 54.5,
+      "P": 33.7,
+      "K": 45.8,
+      "pH": 6.41
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 3460.7,
+        "temperature": 26.2,
+        "humidity": 80.0
+      },
+      "Rabi": {
+        "rainfall": 17.3,
+        "temperature": 28.1,
+        "humidity": 61.3
+      },
+      "Summer": {
+        "rainfall": 162.0,
+        "temperature": 31.5,
+        "humidity": 65.9
+      }
+    }
+  },
+  "Sambalpur": {
+    "latitude": 21.47,
+    "longitude": 83.97,
+    "elevation": 135.0,
+    "agro_climatic_zone": "Western Central Table Land",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 51.9,
+      "P": 32.4,
+      "K": 46.3,
+      "pH": 6.37
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4155.2,
+        "temperature": 26.5,
+        "humidity": 80.6
+      },
+      "Rabi": {
+        "rainfall": 131.7,
+        "temperature": 28.4,
+        "humidity": 61.4
+      },
+      "Summer": {
+        "rainfall": 410.3,
+        "temperature": 31.8,
+        "humidity": 67.0
+      }
+    }
+  },
+  "Subarnapur": {
+    "latitude": 20.83,
+    "longitude": 83.92,
+    "elevation": 122.0,
+    "agro_climatic_zone": "Western Central Table Land",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 52.8,
+      "P": 31.4,
+      "K": 43.3,
+      "pH": 6.42
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4590.1,
+        "temperature": 26.6,
+        "humidity": 81.0
+      },
+      "Rabi": {
+        "rainfall": 78.6,
+        "temperature": 28.5,
+        "humidity": 61.3
+      },
+      "Summer": {
+        "rainfall": 326.5,
+        "temperature": 31.8,
+        "humidity": 66.7
+      }
+    }
+  },
+  "Sundargarh": {
+    "latitude": 22.12,
+    "longitude": 84.03,
+    "elevation": 243.0,
+    "agro_climatic_zone": "North Western Plateau",
+    "coastal_status": "Inland",
+    "soil": {
+      "N": 53.6,
+      "P": 33.5,
+      "K": 47.2,
+      "pH": 6.48
+    },
+    "seasons": {
+      "Kharif": {
+        "rainfall": 4540.1,
+        "temperature": 26.0,
+        "humidity": 81.1
+      },
+      "Rabi": {
+        "rainfall": 108.0,
+        "temperature": 28.0,
+        "humidity": 61.5
+      },
+      "Summer": {
+        "rainfall": 445.3,
+        "temperature": 31.3,
+        "humidity": 67.1
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+district_id,district_name,predominant_soil_type,nitrogen_level,phosphorus_level,potassium_level,ph_level,source,year,data_status
+DST01,Angul,Red and Yellow,Low,Low,Medium,Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST02,Balangir,Red and Black,Low,Medium,Medium,Slightly Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST03,Balasore,Coastal Alluvium,Low,Medium,High,Neutral to Saline,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST04,Bargarh,Mixed Red and Black,Low,Medium,Medium,Neutral,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST05,Bhadrak,Coastal Alluvium,Low,Medium,High,Neutral to Saline,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST06,Boudh,Red and Yellow,Low,Low,Medium,Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST07,Cuttack,Deltaic Alluvium,Low,Medium,High,Neutral,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST08,Deogarh,Red and Yellow,Low,Low,Medium,Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST09,Dhenkanal,Lateritic,Low,Low,Medium,Strongly Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST10,Gajapati,Red,Low,Low,Medium,Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST11,Ganjam,Coastal Alluvium,Low,Medium,High,Neutral,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST12,Jagatsinghpur,Deltaic Alluvium,Low,Medium,High,Neutral to Saline,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST13,Jajpur,Lateritic / Alluvial,Low,Medium,Medium,Slightly Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST14,Jharsuguda,Red and Yellow,Low,Low,Medium,Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST15,Kalahandi,Red and Black,Low,Medium,Medium,Neutral,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST16,Kandhamal,Red,Low,Low,Medium,Strongly Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST17,Kendrapara,Coastal Alluvium,Low,Medium,High,Neutral to Saline,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST18,Kendujhar,Red / Lateritic,Low,Low,Medium,Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST19,Khordha,Lateritic / Alluvial,Low,Medium,Medium,Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST20,Koraput,Red,Low,Low,Medium,Strongly Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST21,Malkangiri,Red,Low,Low,Medium,Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST22,Mayurbhanj,Red / Lateritic,Low,Low,Medium,Strongly Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST23,Nabarangpur,Red,Low,Low,Medium,Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST24,Nayagarh,Lateritic,Low,Low,Medium,Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST25,Nuapada,Red and Black,Low,Medium,Medium,Neutral,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST26,Puri,Coastal Alluvium,Low,Medium,High,Neutral to Saline,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST27,Rayagada,Red,Low,Low,Medium,Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST28,Sambalpur,Mixed Red and Black,Low,Medium,Medium,Slightly Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST29,Subarnapur,Red and Black,Low,Medium,Medium,Neutral,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate
+DST30,Sundargarh,Red and Yellow,Low,Low,Medium,Strongly Acidic,ICAR-NBSS&LUP/Soil Health Card Aggregates,2023,real_aggregate

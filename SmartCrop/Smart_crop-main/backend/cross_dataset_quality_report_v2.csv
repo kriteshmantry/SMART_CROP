@@ -1,0 +1,15 @@
+dataset,rows,columns,duplicate_rows,missing_cells,district_ids_not_in_master,crop_ids_not_in_master,season_ids_not_in_master
+odisha_crop_observations_for_recommendation_fixed.csv,1170,34,0,0,0,0,0
+district_master.csv,30,11,0,0,0,0,0
+odisha_district_geography_fixed.csv,30,15,0,120,0,0,0
+odisha_crop_production_history_fixed.csv,3900,14,0,0,0,0,0
+odisha_district_crop_calendar_fixed.csv,13,22,0,0,1,0,0
+odisha_weather_master_ml_fixed.csv,108660,33,0,3000,0,0,0
+fixed_dataset_audit_report.csv,12,9,0,36,0,0,0
+odisha_agricultural_inputs_final.csv,30,23,0,300,0,0,0
+odisha_district_soil_fertility_categories_fixed.csv,30,10,0,0,0,0,0
+season_master.csv,5,3,0,0,0,0,0
+odisha_mandi_daily_prices_fixed.csv,427440,14,0,0,0,0,0
+odisha_crop_agronomic_requirements_fixed.csv,13,27,0,0,0,0,0
+odisha_agricultural_inputs_fixed.csv,30,23,0,270,0,1,0
+crop_master.csv,13,3,0,0,0,0,0

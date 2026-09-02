@@ -1,0 +1,13 @@
+FINAL CROSS-DATASET AUDIT — v2
+
+Key conclusions:
+1. District and crop IDs are consistent across genuine district/crop datasets.
+2. State-level crop calendar rows must NOT be treated as district foreign keys.
+3. Agricultural inputs are district-aggregate data. ALL_CROPS was not mapped to individual crops; crop_id is intentionally blank in the final file.
+4. Weather lag/rolling features are verified against past-only shift/rolling formulas. The first 30 days per district are absent from the ML weather file because a 30-day history is required.
+5. Production yield exactly matches production / harvested area. Production is Annual (SEA03), not season-specific.
+6. Market prices satisfy min <= modal <= max and have unique market×crop×date keys, but remain SYNTHETIC prototype data.
+7. Crop observations have crop_actual == crop_name and canonical IDs, but are SYNTHETIC_AI_GENERATED and therefore are not real supervised crop-choice ground truth.
+8. Agronomy and crop-calendar data are reference/suitability information, not observed outcomes.
+9. Never directly merge daily weather or daily market data into annual production. Aggregate to the required grain first.
+10. Before training, create separate model-specific feature tables with leakage-safe temporal splits.
